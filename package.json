@@ -1,0 +1,1 @@
+{"name":"signalforge-clocked-netlify","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --check site/app.js && node --check netlify/functions/analyze.mjs"}}
